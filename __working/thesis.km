@@ -1,0 +1,376 @@
+{
+    "root": {
+        "data": {
+            "id": "c1txzs3y7c80",
+            "created": 1586157743852,
+            "text": "thesis"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c1ty20kqmk80",
+                    "created": 1586157919009,
+                    "text": "结构构建",
+                    "layout_right_offset": {
+                        "x": 36,
+                        "y": 66
+                    },
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c1ty2iajzxk0",
+                            "created": 1586157957576,
+                            "text": "绪论(之后生成)"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c1ty3gz0xwg0",
+                            "created": 1586158033066,
+                            "text": "文献综述(每周引入4篇), baseline",
+                            "priority": 1,
+                            "layout_right_offset": {
+                                "x": 43,
+                                "y": 1
+                            },
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c1zr1tp8ddc0",
+                                    "created": 1586747516014,
+                                    "text": "中国股市有效性",
+                                    "priority": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c21njdkh9ug0",
+                                            "created": 1586940726927,
+                                            "text": "正态检验(2004)"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c21nvxwr8mw0",
+                                            "created": 1586941711575,
+                                            "text": "CAPM理论",
+                                            "expandState": "collapse"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c21nx3py2i00",
+                                                    "created": 1586941802588,
+                                                    "text": "CAPM是否与收益率存在线性关系"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c21nylfphlk0",
+                                                    "created": 1586941919515,
+                                                    "text": "线性回归的Z检测, 看beta是否显著"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c21nz5s10lk0",
+                                                    "created": 1586941963796,
+                                                    "text": "结论是不显著, 只能看CAPM的有效性"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c21njx26km80",
+                                            "created": 1586940769356,
+                                            "text": "策略有效性2018"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c21nk35k1k80",
+                                                    "created": 1586940782621,
+                                                    "text": "6个股票跑macd"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c21njj0nhpc0",
+                                            "created": 1586940738789,
+                                            "text": "策略有效性检验(2019)"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c21njojqo940",
+                                                    "created": 1586940750827,
+                                                    "text": "879支股票"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c1zr1wwb23c0",
+                                    "created": 1586747522973,
+                                    "text": "金融市场有效性",
+                                    "priority": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c21nkaoz2i00",
+                                            "created": 1586940799033,
+                                            "text": "fama",
+                                            "expandState": "collapse"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c21nkfwm9hs0",
+                                                    "created": 1586940810379,
+                                                    "text": "a efficient capital markets",
+                                                    "priority": 1
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c21nkjlgqpc0",
+                                                    "created": 1586940818411,
+                                                    "text": "the behavior of stock market prices(1970)"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c1zr1ytex080",
+                                    "created": 1586747527151,
+                                    "text": "技术分析能否盈利",
+                                    "priority": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c1ty3su47940",
+                            "created": 1586158058890,
+                            "text": "核心",
+                            "priority": null,
+                            "layout_right_offset": {
+                                "x": -47,
+                                "y": 54
+                            },
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c1ty4slkqhk0",
+                                    "created": 1586158136738,
+                                    "text": "数据库构建",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c1ty4xexqig0",
+                                    "created": 1586158147221,
+                                    "text": "回测系统搭建",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c1ty4ze8jns0",
+                                    "created": 1586158151532,
+                                    "text": "交易系统",
+                                    "priority": null,
+                                    "layout_right_offset": {
+                                        "x": 174,
+                                        "y": -37
+                                    },
+                                    "progress": 6,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c2k9lc36oxs0",
+                                            "created": 1588831024071,
+                                            "text": "单股票技术分析与随机测试",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c2lhw1pi2q80",
+                                            "created": 1588955992317,
+                                            "text": "查阅LSTM预测股票的代码",
+                                            "priority": 1
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c2k9liv8ovk0",
+                                            "created": 1588831038828,
+                                            "text": "单股票机器学习与随机测试"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c2k9lmkceao0",
+                                            "created": 1588831046876,
+                                            "text": "多股票技术分析与随机测试"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c2k9mb8l7ds0",
+                                            "created": 1588831100585,
+                                            "text": "多股票机器学习与随机测试"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c2k9md64hnc0",
+                                            "created": 1588831104789,
+                                            "text": "多股票->多股票机器学习 vs 随机测试"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c1ty7wkz7m80",
+                                    "created": 1586158380502,
+                                    "text": "假设检验理论问题",
+                                    "expandState": "collapse",
+                                    "layout_right_offset": {
+                                        "x": 168,
+                                        "y": 21
+                                    }
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c1ty83omsqw0",
+                                            "created": 1586158395960,
+                                            "text": "减小beta错误"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c1ty8f5cvag0",
+                                            "created": 1586158420916,
+                                            "text": "减少alpha错误"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c1ty8l91zns0",
+                                            "created": 1586158434200,
+                                            "text": "构建统计量"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c1zr0rwpo8o0",
+                                            "created": 1586747433749,
+                                            "text": "causal inference, time series experiment"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c1ty969h3680",
+                                    "created": 1586158479938,
+                                    "text": "计算系统-scaling",
+                                    "layout_right_offset": {
+                                        "x": 72,
+                                        "y": 49
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c1ty9y6bn4g0",
+                    "created": 1586158540697,
+                    "text": "补充性材料, 概念解释",
+                    "expandState": "expand",
+                    "layout_right_offset": {
+                        "x": -107,
+                        "y": -16
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c20rqh4zx4o0",
+                            "created": 1586851007730,
+                            "text": "有效市场假说"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c20rqc0jgmo0",
+                    "created": 1586850996577,
+                    "text": "插图",
+                    "layout_right_offset": {
+                        "x": -146,
+                        "y": 36
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "classic",
+    "version": "1.4.43"
+}
