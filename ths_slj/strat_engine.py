@@ -7,7 +7,7 @@ import pandas as pd
 class BaseMaStrategy:
 
     def __init__(self, data, ma1=5, ma2=10, ma3=15, y1=0.07, y2=-0.02):
-        self.data = data
+        self.data = data.copy()
         self.ma1 = ma1
         self.ma2 = ma2
         self.ma3 = ma3

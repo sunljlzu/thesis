@@ -10,9 +10,11 @@ def backtest(df, ma1, ma2, ma3, y1, y2):
     ma2 = int(ma2) + 1
     ma3 = int(ma3) + 1
 
-    strat = MaStrat(df, ma1=ma1, ma2=ma2, ma3=ma3, y1=y1, y2=y2)
+    _tmp_df = df.copy()
+
+    strat = MaStrat(_tmp_df, ma1=ma1, ma2=ma2, ma3=ma3, y1=y1, y2=y2)
     strat.run()
-    return strat.ir
+    return strat.ir, strat.pnl
 
 
 def random_monte_test(df, hold_ratio=0.5, m3=150, num_iter=1000):
